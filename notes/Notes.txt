@@ -1,0 +1,2 @@
+I noticed there is unstable behavior occurs when trying to find the next button .. as shown in the screen record it sometimes appears and sometimes not.
+This behavior occurs manually so the automation script sometimes passes and sometimes not.
